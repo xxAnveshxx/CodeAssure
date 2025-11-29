@@ -13,6 +13,3 @@ AI-powered code review assistant that analyzes pull requests using LLM technolog
 - Frontend: React, Vite, Tailwind CSS
 - Database: PostgreSQL (production), SQLite (dev)
 - Vector DB: Qdrant
-
-# Setup
-See deployment guide for instructions.
